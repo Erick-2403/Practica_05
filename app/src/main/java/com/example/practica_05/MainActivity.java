@@ -17,7 +17,7 @@ public class MainActivity extends AppCompatActivity {
       Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
       setSupportActionBar(toolbar);
 
-      // determine screen size
+      // determinar el tamaño de la pantall
       int screenSize =
          getResources().getConfiguration().screenLayout &
             Configuration.SCREENLAYOUT_SIZE_MASK;
