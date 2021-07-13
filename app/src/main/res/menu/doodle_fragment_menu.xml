@@ -45,8 +45,7 @@
 
    <item
        android:id="@+id/image"
-       android:title="Image"
        android:icon="@drawable/ic_photo_library_black_24dp"
-       app:showAsAction="ifRoom"
-      ></item>
+       android:title="Seleccionar Imagen"
+       app:showAsAction="ifRoom"></item>
 </menu>

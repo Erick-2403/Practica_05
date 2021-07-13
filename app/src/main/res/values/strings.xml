@@ -1,5 +1,5 @@
 <resources>
-   <string name="app_name">Practica_05</string>
+   <string name="app_name">Practica005</string>
    <string name="button_erase">Erase Image</string>
    <string name="button_set_color">Set Color</string>
    <string name="button_set_line_width">Set Line Width</string>
